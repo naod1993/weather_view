@@ -4,7 +4,7 @@ export default function Search() {
   return (
     <>
       <Head>
-        <title>WeatherView</title>
+        <title>Weather View</title>
       </Head>
       <main className="mt-5 mx-5">
         <h1 className="text-xl font-medium mb-4">Weather View</h1>
